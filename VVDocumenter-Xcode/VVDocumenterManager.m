@@ -72,6 +72,7 @@
     [self addSettingMenu];
 }
 
+
 -(void) addSettingMenu
 {
     NSMenuItem *editMenuItem = [[NSApp mainMenu] itemWithTitle:@"Window"];
